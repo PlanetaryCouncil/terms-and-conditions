@@ -2,7 +2,7 @@
 
 **For “I could be yours for 1 night, the price is 1 BTC”**
 
-**Version 0.4 — working draft — 14 November 2026**
+**Version 0.5 — working draft — 14 November 2026**
 
 This protocol makes physical interaction predictable while allowing the performance to evolve. It applies equally to the artist and every participant. The artwork’s quantum, shapeshifting, morphogenetic character leaves interpretation open; permission for an actual interaction must have an agreed scope.
 
@@ -56,7 +56,9 @@ Anything outside the selected default requires a separate specific request and a
 
 The [minimum service](SERVICE.md) proposes 24 one-hour Ultra Magic Session massage sessions, which can be delivered remotely under an agreed specification. The social-touch default above does not authorise massage. In-person massage needs a separately agreed scope covering technique, areas, pressure range, clothing or draping, duration, and exclusions. Within an active massage scope, permission can cover continuous contact rather than three-second instances. Reconfirm that scope and present willingness at the start of every session. The same pause, withdrawal, capacity, and check-in rules apply. Remote participation creates no physical-touch permission.
 
-An expressly agreed alternative is 24 one-hour live Zoom business consultancy sessions with the artist present. This format requires agreement on the discussion scope and creates no massage or physical-touch permission. Recording, transcription, and AI-generated notes require separate explicit agreement.
+Expressly agreed alternatives include 24 one-hour live Zoom sessions of business consultancy, Reiki, self-guided participation, or an agreed mix, with the artist present. These formats require agreement on the actual activity and scope and create no physical-touch permission. Self-guided participation leaves the participant in control of their own actions. Recording, transcription, and AI-generated notes require separate explicit agreement.
+
+The [artistic Independent Tribunal](TRIBUNAL.md), performed by the artist, cannot supply another person’s consent, reverse a withdrawal, or treat a disputed interaction as retrospectively authorised.
 
 ## 5. Establish permission before interaction
 

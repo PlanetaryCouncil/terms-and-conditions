@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.4 — 14 November 2026**
+**Working draft, version 0.5 — 14 November 2026**
 
 ## Minimum acceptable service
 
@@ -10,7 +10,7 @@ This is the proposed minimum deliverable for an accepted paid package under the 
 
 **Remote presence:** “I will be present with you, live, during the Zoom call.”
 
-By explicit agreement before payment, the same **24 × one-hour session allocation** may instead be booked as live Zoom business consultancy. The booking must identify which format is being purchased. A consultancy call counts towards the package only when that format has been agreed; it cannot silently replace a massage session.
+By explicit agreement before payment, the same **24 × one-hour session allocation** may instead be booked as live Zoom **business consultancy, Reiki, or self-guided sessions**. Any of these formats may be selected, or a mix may be agreed. The booking must identify the actual format or agreed selection procedure. An alternative format counts towards the package only when it has been agreed; it cannot silently replace a massage session.
 
 The booking must identify the person or legal entity providing the service under the name **Ultra Magic Session**. This draft does not assert professional qualifications or a clinical treatment capability.
 
@@ -23,6 +23,8 @@ The booking must identify the person or legal entity providing the service under
 | Delivery | In person or remotely, as expressly agreed before payment. Neither party may silently substitute one format for the other. |
 | Remote method | Live Zoom calls with the artist personally present and participating. A recording, unattended connection, or substitute host does not fulfil that commitment unless a different arrangement is expressly agreed. |
 | Consultancy format | A live discussion of agreed business questions, projects, or decisions. Record the topics and scope before the session. Reports, research, implementation, or follow-up work are included only if separately specified. |
+| Reiki format | A Reiki session framed as a spiritual or contemplative practice, with the artist live on Zoom. Agree what the artist will actually do and whether the participant wants conversation or quiet presence. No medical treatment or particular effect is promised. |
+| Self-guided format | The participant chooses their own agreed focus, such as reflection, relaxation, or self-massage, while the artist remains present live on Zoom. Provider-led instruction is not implied by the term “self-guided.” |
 | In-person massage | Agree technique, permitted body areas, exclusions, pressure range, clothing or draping arrangements, and usable stop signals before contact. |
 | Scheduling | Agree dates or a booking procedure, time zone, booking window, and completion period. No expiry or forfeiture is implied by this draft. |
 | Payment | Agree the actual price, currency, what it covers, and any expenses before payment. The title alone does not settle the payment arrangement. |
@@ -31,15 +33,21 @@ The booking must identify the person or legal entity providing the service under
 
 Remote delivery is permitted, but the word “massage” must not obscure what is actually offered at a distance. A remote session is not represented as physical touch by a practitioner who is absent. No medical, healing, or remote physical effect is guaranteed.
 
-## Live Zoom sessions and business consultancy
+## Live Zoom sessions and selectable formats
 
 The remote commitment is the artist’s live presence and participation for each agreed hour. When the selected format is business consultancy, the actual activity is discussion of the business topics agreed with the participant. Calling a session consultancy must accurately describe what takes place. No particular business result is guaranteed.
 
-The booking must distinguish **Zoom business consultancy** from any **remote massage-related session**. Zoom business consultancy is a defined alternative format. If remote massage-related delivery is selected, describe the actual activity and any guidance offered before payment; live presence alone does not specify a massage method.
+The booking must distinguish **business consultancy**, **Reiki**, **self-guided participation**, and any **remote massage-related session**. Each is a selectable format. The activity, the artist’s role, and the participant’s choices must be described before payment; an interpretive label alone does not change what was purchased. If remote massage-related delivery is selected, describe the actual activity and any guidance offered; live presence alone does not specify a massage method.
+
+In a self-guided session, the artist is still present for the agreed hour. “Self-guided” does not mean an unattended call or a prerecorded substitute. The participant may choose whether to follow a suggested activity, change their focus within the agreed scope, or pause. No particular personal outcome is required for the artist’s agreed live presence to count as delivery.
+
+Reiki is offered here as a spiritual or contemplative session, without a promise of diagnosis, cure, healing, energy transfer, or a particular physiological effect. This draft makes no claim about Reiki qualifications. For evidence context, see the [NCCIH overview of Reiki](https://www.nccih.nih.gov/health/reiki). A Reiki label does not authorise touch; any in-person proximity or contact must be separately agreed.
 
 Agree the Zoom invitation, time zone, accessibility needs, and any camera preferences in advance. Recording, transcription, and AI-generated meeting notes require separate explicit agreement from everyone concerned; they are not included by default. A connection failure is a pause in delivery: only delivered session time counts towards the agreed hour, and any shortfall must be completed or rescheduled by agreement.
 
 Neither a consultancy label nor use of Zoom changes the bodily-consent rules or selects governing law. See the [choice-of-law note](CHOICE-OF-LAW.md).
+
+Artistic questions may pass through the [Independent Tribunal’s layers](TRIBUNAL.md). All those roles are performed by the artist. That internal performance cannot replace an actually agreed session format or determine a service complaint with binding legal finality.
 
 ## Massage permission and the touch defaults
 
