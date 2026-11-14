@@ -107,3 +107,7 @@ Before any paid participation, complete the [service specification](SERVICE.md),
 ## The image and the AI commentary
 
 The reference image includes an exchange with an AI about the title. That exchange can form part of the artwork’s self-reference. Its statements are not legal approval, a guarantee of legality, or a substitute for the terms agreed by the people taking part.
+
+## Historical documents for future use
+
+The two supplied PDFs are [uploaded and kept aside in the historical archive](archive/README.md), with their original filenames and contents preserved. They are available for future development. Their presence in the repository does not incorporate them into the current terms.

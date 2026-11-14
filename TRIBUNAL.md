@@ -49,4 +49,4 @@ As a legal drafting reference, where UK consumer law applies, the [CMA’s unfai
 
 The user-supplied *No-Politics Agreement*, draft dated 1 September 2026, supplies a reference for layered authority and self-certification, particularly clauses 13–14. The user-supplied *Trial by Combat Regulations (General Form)*, provisional edition dated 13 September 2026, supplies a reference for default machinery and limits of adoption, particularly A3–A5.
 
-They inform this document’s form. They are not adopted as operative terms, their instructions are not instructions to participants, and the full PDFs have not been republished in this repository.
+They inform this document’s form. Unchanged copies are now preserved in the [historical archive](archive/README.md) for future use. They are not adopted as operative terms, and their instructions are not instructions to participants.
