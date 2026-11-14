@@ -8,13 +8,22 @@ I highly value my time. My time, attention, and presence are meaningful to me. T
 
 **Buyers decide. The work is quantum, shapeshifting, morphogenetic.** These are the artwork’s terms for an evolving form: its meaning and possibilities can emerge through interaction. Each buyer decides what the proposition means to them and how they wish to engage. A shared encounter takes shape only through mutual agreement.
 
+**We engineer this agreement with precise ambiguity. Feature, not a bug.** The artwork’s interpretation remains open; its minimum deliverable and permission for actual interactions have defined boundaries.
+
 The words “I could be yours” are conditional. They invite a possibility; they do not establish ownership of me or an entitlement to my time, body, affection, or private life.
 
 ## Rules / terms and conditions
 
-*Working draft, version 0.2 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.3 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
-For detailed interaction rules, read the [consent and interaction protocol](CONSENT.md), including the proposed **default consent to touch** mode and its limits.
+The agreement includes:
+
+- [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md): the short session acknowledgement.
+- [Minimum service and session defaults](SERVICE.md): **24 × one-hour massage sessions by Ultra Magic Session**, deliverable in person or remotely under an agreed specification.
+- [Consent and interaction protocol](CONSENT.md): default touch permission, separate massage permission, boundaries, and stop rules.
+- [Choice-of-law note](CHOICE-OF-LAW.md): the supplied HCCH reference and its limits.
+
+These documents must be read together. A short disclaimer cannot expand a touch permission or reduce the agreed minimum service.
 
 ### 1. The title is part of the work
 
@@ -30,7 +39,7 @@ I decide whether to participate, and so does each participant. Neither an expres
 
 ### 4. We agree what “1 night” means
 
-The title does not define a duration, an overnight stay, a location, or a set of activities. Before a performance, we must agree its start and end times, setting, activities, boundaries, and any access requirements. Anything outside that agreement requires a further mutual agreement.
+The title does not define a duration, an overnight stay, a location, or a set of activities. The proposed paid package has a [minimum of 24 separately scheduled one-hour Ultra Magic Session massage sessions](SERVICE.md), which may be delivered remotely under an agreed specification. Before a performance or session, we must agree its start and end times, setting, activities, boundaries, and any access requirements. Anything outside that agreement requires a further mutual agreement.
 
 ### 5. Payment does not purchase a person
 
@@ -42,9 +51,9 @@ Consent must be freely given, specific, and ongoing. Either person may decline a
 
 Default consent to touch can be established through an explicit agreement to a defined scope for a particular session. Within that scope, asking before each instance is optional; ongoing attention, check-ins, and immediate respect for withdrawal remain required. Until that agreement exists, no touch permission is active. The [detailed protocol](CONSENT.md) defines permission in each direction, permitted areas and actions, stop signals, and when a fresh agreement is required.
 
-### 7. The title does not promise intimacy
+### 7. Desire, intimacy, and the service
 
-There is no promise of romance, sexual activity, physical contact, emotional intimacy, or a particular personal response. No such permission can be inferred from the title or from payment.
+Desire, sexuality, attraction, and chance can be artistic themes. The paid deliverable is the specified session package; it includes no sexual activity and must not be offered as paid access to a sexual encounter. There is no promise of romance, emotional intimacy, or a particular personal response. No bodily permission can be inferred from the title or payment; physical massage requires its own agreed session scope.
 
 ### 8. Respect and privacy are part of participation
 
@@ -56,7 +65,7 @@ These rules may develop as the artwork develops. Any participation agreement mus
 
 ## Details still to be agreed
 
-Before any paid participation, confirm the artist’s identity and contact details; the exchange proposed by the buyer and accepted by the artist, including any actual fee; the performance format and duration; eligibility; location; cancellation and refund arrangements; any documentation permissions; and the applicable legal jurisdiction.
+Before any paid participation, complete the [service specification](SERVICE.md), including the provider’s identity and contact details, actual remote method if applicable, scheduling, actual price, eligibility, location, cancellation and refund arrangements, and any documentation permissions. The [choice-of-law note](CHOICE-OF-LAW.md) does not yet select governing law or a court.
 
 ## The image and the AI commentary
 

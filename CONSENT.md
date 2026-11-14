@@ -2,7 +2,7 @@
 
 **For “I could be yours for 1 night, the price is 1 BTC”**
 
-**Version 0.2 — working draft — 14 November 2026**
+**Version 0.3 — working draft — 14 November 2026**
 
 This protocol makes physical interaction predictable while allowing the performance to evolve. It applies equally to the artist and every participant. The artwork’s quantum, shapeshifting, morphogenetic character leaves interpretation open; permission for an actual interaction must have an agreed scope.
 
@@ -22,7 +22,7 @@ A permission must identify all of the following:
 | --- | --- |
 | Giver | The person whose body may be touched. |
 | Receiver | The named person allowed to initiate that touch. Permission does not extend to spectators or additional participants. |
-| Mode | `NO_TOUCH`, `ASK_EACH_TIME`, or `DEFAULT_TOUCH`. |
+| Mode | `NO_TOUCH`, `ASK_EACH_TIME`, `DEFAULT_TOUCH`, or the separately agreed `MASSAGE_SCOPE`. |
 | Body areas | Exact permitted areas, including left/right where relevant and any exclusions. An unspecified area is excluded. |
 | Contact | Permitted action, skin or clothing contact, maximum pressure, maximum duration, and repetition limits. |
 | Context | The agreed activity and location. |
@@ -38,6 +38,7 @@ A permission must identify all of the following:
 | `NO_TOUCH` | Conversation, observation, and agreed interaction without bodily contact. |
 | `ASK_EACH_TIME` | Ask for a specific contact and receive a clear affirmative response before that instance. The permission ends when that contact ends. |
 | `DEFAULT_TOUCH` | Initiate only contact already covered by the active permission, subject to the limits and stop rules below. |
+| `MASSAGE_SCOPE` | Perform only massage contact covered by a separately agreed, currently active session scope. |
 
 Selecting a mode does not fill in missing scope fields. No physical contact starts until the scope is complete. Choosing a more restrictive mode takes effect immediately; expanding permission requires a new affirmative agreement.
 
@@ -50,6 +51,10 @@ If expressly selected, `DEFAULT_TOUCH` covers a brief, light, open-hand touch to
 Hugs, massage, kissing, lifting, tickling, contact with intimate areas, contact under clothing, and touching the face, head, neck, torso, legs, or feet fall outside this proposed default. Clothing, mobility aids, and other personal belongings must not be moved or handled under a bodily-touch permission.
 
 Anything outside the selected default requires a separate specific request and affirmative agreement. Some activities may remain outside the performance entirely; requesting them does not oblige anyone to negotiate.
+
+### Separate massage scope
+
+The [minimum service](SERVICE.md) proposes 24 one-hour Ultra Magic Session massage sessions, which can be delivered remotely under an agreed specification. The social-touch default above does not authorise massage. In-person massage needs a separately agreed scope covering technique, areas, pressure range, clothing or draping, duration, and exclusions. Within an active massage scope, permission can cover continuous contact rather than three-second instances. Reconfirm that scope and present willingness at the start of every session. The same pause, withdrawal, capacity, and check-in rules apply. Remote participation creates no physical-touch permission.
 
 ## 5. Establish permission before interaction
 
@@ -72,8 +77,14 @@ AND the proposed area, action, pressure, and duration are in scope
 AND the agreed context and session are still current
 AND the person is able to choose and communicate
 AND there is no refusal, withdrawal, distress, or uncertainty
-AND (DEFAULT_TOUCH is active OR this instance has a fresh affirmative agreement)
+AND (
+    mode is DEFAULT_TOUCH
+    OR mode is MASSAGE_SCOPE
+    OR (mode is ASK_EACH_TIME AND this instance has a fresh affirmative agreement)
+)
 ```
+
+A purchase or an unused session balance never activates a massage scope or any other touch permission.
 
 If any condition is false or unknown, do not initiate contact. This is a decision aid for people, not an automated consent detector. Body language, biometric signals, or an AI system cannot supply missing permission.
 
@@ -124,6 +135,6 @@ Never use a record to contradict someone’s current refusal. Do not impose a fe
 
 ## 10. Scope of this draft
 
-These are proposed operational rules for the artwork. They do not establish that a particular act is lawful or that an agreement constitutes valid consent under applicable law. Venue rules and applicable law still apply. The artist must confirm the intended default scope and participation eligibility before this draft is used in a live performance.
+These are proposed operational rules for the artwork. They do not establish that a particular act is lawful or that an agreement constitutes valid consent under applicable law. Venue rules and applicable law still apply. The artist must confirm the intended default scope and participation eligibility before this draft is used in a live performance. The [minimal disclaimer](MINIMAL-DISCLAIMER.md) is a short acknowledgement, not a substitute for this protocol or for specific massage permission.
 
 For background on clear, voluntary, ongoing agreement and withdrawal, see [RAINN’s consent guidance](https://rainn.org/share-the-facts/consent-101-respect-boundaries-and-building-trust/). That source addresses sexual consent; this artwork adopts communication and withdrawal principles for its nonsexual touch protocol. The specific modes, contact limits, and session procedure above are proposed rules for this work.
