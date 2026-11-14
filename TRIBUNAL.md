@@ -1,10 +1,12 @@
 # Independent Tribunal and the layers of interpretation
 
-**Working draft, version 0.5 — 14 November 2026**
+**Working draft, version 0.6 — 14 November 2026**
 
 **Artistic framework and satire.** The offices below are roles performed by the artist. Their titles do not represent external institutions or independent adjudicators. The practical dispute arrangements are stated separately below.
 
-## 1. The layers
+## 1. The proposed layers — to be decided later
+
+Coin-flip regulation, humidity measurement, trial by combat, and the Mecha-Godzilla Clause are the current [priority schedules](REGULATIONS.md). The offices below remain a proposed structure. Their number, sequence, and relationship to those schedules will be decided later.
 
 | Layer | Office | Function | Officeholder |
 | --- | --- | --- | --- |
@@ -14,7 +16,7 @@
 | 4 | Independent Tribunal | Determine questions arising within the artwork’s internal framework. | The artist in the capacity of the independent figure. |
 | 5 | Chamber for the Independence of the Independent Tribunal | Review the independence of Layer 4 and the independence of this review. | The same artist in a further independent capacity. |
 
-**Ultimately, the independent figure is me.** Each layer may refer an artistic question to the next. Layer 5 is the final internal layer and refers its conclusion to the artist, who is already present. Changing the office does not change the person. That is the architecture.
+**Ultimately, the independent figure is me.** Under this proposed structure, each layer may refer an artistic question to the next. Layer 5 would be the final internal layer and would refer its conclusion to the artist, who is already present. The intervening machinery remains open; the eventual artistic deciding figure remains the artist. Changing the office does not change the person.
 
 ## 2. Declaration of absolute non-conflict
 
@@ -31,7 +33,7 @@ The declaration is the artwork’s circular proposition. It does not establish a
 3. An appeal adds a layer of interpretation; it does not create a new independent reviewer.
 4. The Tribunal may give the artwork a final internal interpretation. It cannot retrospectively create consent, alter the purchased service, certify delivery that did not occur, or decide another person’s private wishes.
 5. There is no fee, financial sanction, public-shaming obligation, or compulsory ordeal for questioning a fictional determination or declining the tribunal performance.
-6. No physical combat, coin-flip dispute procedure, monetary obligation, or third-party jurisdiction from the reference PDFs is incorporated by this document.
+6. Coin-flip regulation, humidity measurement, ceremonial trial by combat, and the Mecha-Godzilla Clause have reserved [schedules](REGULATIONS.md). Their mention does not adopt an operative procedure, monetary obligation, or third-party jurisdiction from a reference document. Physical combat is not authorised.
 
 ## 4. Practical complaints and disputes
 

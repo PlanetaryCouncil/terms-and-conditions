@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.5 — 14 November 2026**
+**Working draft, version 0.6 — 14 November 2026**
 
 ## Minimum acceptable service
 

@@ -6,23 +6,37 @@
 
 I highly value my time. My time, attention, and presence are meaningful to me. This work invites an encounter with that value and with the expectations created by its title.
 
+One of my previous projects was called **“sensusal consensual sapiosexual”**. I mention that title here to emphasise intellect, curiosity, and conversation as part of this work.
+
 **Buyers decide. The work is quantum, shapeshifting, morphogenetic.** These are the artwork’s terms for an evolving form: its meaning and possibilities can emerge through interaction. Each buyer decides what the proposition means to them and how they wish to engage. A shared encounter takes shape only through mutual agreement.
 
 **We engineer this agreement with precise ambiguity. Feature, not a bug.** The artwork’s interpretation remains open; its minimum deliverable and permission for actual interactions have defined boundaries.
 
 The words “I could be yours” are conditional. They invite a possibility; they do not establish ownership of me or an entitlement to my time, body, affection, or private life.
 
+## First things first: the important regulations
+
+**We will decide later.** These are the priority subjects for developing the agreement:
+
+1. **Coin-flip regulation.**
+2. **Humidity measurement.**
+3. **Trial by combat.**
+4. **The Mecha-Godzilla Clause.**
+
+Their detailed rules remain open. The [priority schedules](REGULATIONS.md) reserve the questions for later decisions. The session formats and proposed tribunal layers remain draft material while this ceremonial machinery takes the foreground.
+
 ## Rules / terms and conditions
 
-*Working draft, version 0.5 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.6 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 
+- [The important regulations](REGULATIONS.md): coin flips, humidity, trial by combat, and the deliberately undrafted Mecha-Godzilla Clause.
+- [Independent Tribunal and layers of interpretation](TRIBUNAL.md): the self-certifying artistic tribunal, performed by me, with proposed layers to be decided later and a separate practical complaints route.
 - [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md): the short session acknowledgement.
 - [Minimum service and session defaults](SERVICE.md): **24 × one-hour massage sessions by Ultra Magic Session**, or an expressly agreed **24 × one-hour live Zoom allocation for business consultancy, Reiki, self-guided sessions, or an agreed mix**. I will be personally present on the Zoom calls.
 - [Consent and interaction protocol](CONSENT.md): default touch permission, separate massage permission, boundaries, and stop rules.
 - [Choice-of-law note](CHOICE-OF-LAW.md): the supplied HCCH reference and its limits.
-- [Independent Tribunal and layers of interpretation](TRIBUNAL.md): the self-certifying artistic tribunal, performed by me, with a separate practical complaints route.
 
 These documents must be read together. A short disclaimer cannot expand a touch permission or reduce the agreed minimum service.
 
