@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.3 — 14 November 2026**
+**Working draft, version 0.4 — 14 November 2026**
 
 ## Minimum acceptable service
 
@@ -8,16 +8,21 @@
 
 This is the proposed minimum deliverable for an accepted paid package under the artwork. It is distinct from the artwork’s title, “I could be yours for 1 night, the price is 1 BTC.” The package is not a promise of a continuous 24-hour encounter, an overnight stay, or exclusive access to a person.
 
+**Remote presence:** “I will be present with you, live, during the Zoom call.”
+
+By explicit agreement before payment, the same **24 × one-hour session allocation** may instead be booked as live Zoom business consultancy. The booking must identify which format is being purchased. A consultancy call counts towards the package only when that format has been agreed; it cannot silently replace a massage session.
+
 The booking must identify the person or legal entity providing the service under the name **Ultra Magic Session**. This draft does not assert professional qualifications or a clinical treatment capability.
 
 ## Delivery defaults
 
 | Item | Default or required agreement |
 | --- | --- |
-| Quantity | 24 individually scheduled sessions. No unilateral reduction in the minimum quantity or substitution of a different service. |
+| Quantity | 24 individually scheduled sessions in the format expressly agreed before payment. No unilateral reduction in the minimum quantity or substitution of a different service. |
 | Duration | 60 minutes of agreed session delivery each. Scheduling and payment administration do not count towards that hour. |
 | Delivery | In person or remotely, as expressly agreed before payment. Neither party may silently substitute one format for the other. |
-| Remote method | The booking must describe the actual remote activity, communication channel, provider involvement, and what constitutes delivery. The method is not yet specified in this draft. |
+| Remote method | Live Zoom calls with the artist personally present and participating. A recording, unattended connection, or substitute host does not fulfil that commitment unless a different arrangement is expressly agreed. |
+| Consultancy format | A live discussion of agreed business questions, projects, or decisions. Record the topics and scope before the session. Reports, research, implementation, or follow-up work are included only if separately specified. |
 | In-person massage | Agree technique, permitted body areas, exclusions, pressure range, clothing or draping arrangements, and usable stop signals before contact. |
 | Scheduling | Agree dates or a booking procedure, time zone, booking window, and completion period. No expiry or forfeiture is implied by this draft. |
 | Payment | Agree the actual price, currency, what it covers, and any expenses before payment. The title alone does not settle the payment arrangement. |
@@ -25,6 +30,16 @@ The booking must identify the person or legal entity providing the service under
 | Session record | Track session date, format, delivered minutes, and remaining balance; keep intimate and medical details out of the delivery ledger. |
 
 Remote delivery is permitted, but the word “massage” must not obscure what is actually offered at a distance. A remote session is not represented as physical touch by a practitioner who is absent. No medical, healing, or remote physical effect is guaranteed.
+
+## Live Zoom sessions and business consultancy
+
+The remote commitment is the artist’s live presence and participation for each agreed hour. When the selected format is business consultancy, the actual activity is discussion of the business topics agreed with the participant. Calling a session consultancy must accurately describe what takes place. No particular business result is guaranteed.
+
+The booking must distinguish **Zoom business consultancy** from any **remote massage-related session**. Zoom business consultancy is a defined alternative format. If remote massage-related delivery is selected, describe the actual activity and any guidance offered before payment; live presence alone does not specify a massage method.
+
+Agree the Zoom invitation, time zone, accessibility needs, and any camera preferences in advance. Recording, transcription, and AI-generated meeting notes require separate explicit agreement from everyone concerned; they are not included by default. A connection failure is a pause in delivery: only delivered session time counts towards the agreed hour, and any shortfall must be completed or rescheduled by agreement.
+
+Neither a consultancy label nor use of Zoom changes the bodily-consent rules or selects governing law. See the [choice-of-law note](CHOICE-OF-LAW.md).
 
 ## Massage permission and the touch defaults
 
@@ -42,4 +57,4 @@ Marketing must describe the actual service and its limits. Neither artistic fram
 
 ## Before this becomes a booking offer
 
-Confirm the provider’s identity and contact details, intended participant eligibility, actual remote method, massage scope, scheduling and completion rules, price, cancellation/refund arrangements, and applicable legal framework. Provide the completed specification before accepting payment. The [minimal disclaimer](MINIMAL-DISCLAIMER.md) does not replace these details.
+Confirm the provider’s identity and contact details, intended participant eligibility, selected session format and topics, any massage method and scope, scheduling and completion rules, price, cancellation/refund arrangements, and applicable legal framework. For remote delivery, the channel is live Zoom with the artist present; any remote massage-related method still needs a concrete description. Provide the completed specification before accepting payment. The [minimal disclaimer](MINIMAL-DISCLAIMER.md) does not replace these details.

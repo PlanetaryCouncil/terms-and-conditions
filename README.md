@@ -14,12 +14,12 @@ The words “I could be yours” are conditional. They invite a possibility; the
 
 ## Rules / terms and conditions
 
-*Working draft, version 0.3 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.4 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 
 - [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md): the short session acknowledgement.
-- [Minimum service and session defaults](SERVICE.md): **24 × one-hour massage sessions by Ultra Magic Session**, deliverable in person or remotely under an agreed specification.
+- [Minimum service and session defaults](SERVICE.md): **24 × one-hour massage sessions by Ultra Magic Session**, or an expressly agreed **24 × one-hour live Zoom business consultancy** format. I will be personally present on the Zoom calls.
 - [Consent and interaction protocol](CONSENT.md): default touch permission, separate massage permission, boundaries, and stop rules.
 - [Choice-of-law note](CHOICE-OF-LAW.md): the supplied HCCH reference and its limits.
 
@@ -40,6 +40,8 @@ I decide whether to participate, and so does each participant. Neither an expres
 ### 4. We agree what “1 night” means
 
 The title does not define a duration, an overnight stay, a location, or a set of activities. The proposed paid package has a [minimum of 24 separately scheduled one-hour Ultra Magic Session massage sessions](SERVICE.md), which may be delivered remotely under an agreed specification. Before a performance or session, we must agree its start and end times, setting, activities, boundaries, and any access requirements. Anything outside that agreement requires a further mutual agreement.
+
+Remote delivery means my live presence with you on Zoom. We may agree before payment to use the 24 one-hour sessions for business consultancy, with the actual business topics and scope recorded in the booking. This is an agreed alternative format, not an automatic reclassification of a massage session.
 
 ### 5. Payment does not purchase a person
 
@@ -65,7 +67,7 @@ These rules may develop as the artwork develops. Any participation agreement mus
 
 ## Details still to be agreed
 
-Before any paid participation, complete the [service specification](SERVICE.md), including the provider’s identity and contact details, actual remote method if applicable, scheduling, actual price, eligibility, location, cancellation and refund arrangements, and any documentation permissions. The [choice-of-law note](CHOICE-OF-LAW.md) does not yet select governing law or a court.
+Before any paid participation, complete the [service specification](SERVICE.md), including the provider’s identity and contact details, selected session format and scope, scheduling, actual price, eligibility, location, cancellation and refund arrangements, and any documentation permissions. Remote sessions use live Zoom with me present; remote massage-related activity needs a separately specified method. The [choice-of-law note](CHOICE-OF-LAW.md) does not yet select governing law or a court.
 
 ## The image and the AI commentary
 
