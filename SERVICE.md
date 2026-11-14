@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.7 — 14 November 2026**
+**Working draft, version 0.8 — 14 November 2026**
 
 ## Minimum acceptable service
 
@@ -15,6 +15,12 @@ This is the proposed minimum deliverable for an accepted paid package under the 
 By explicit agreement before payment, the same **24 × one-hour session allocation** may instead be booked as live Zoom **business consultancy, Reiki, or self-guided sessions**. Any of these formats may be selected, or a mix may be agreed. The booking must identify the actual format or agreed selection procedure. An alternative format counts towards the package only when it has been agreed; it cannot silently replace a massage session.
 
 The booking must identify the person or legal entity providing the service under the name **Ultra Magic Session**. This draft does not assert professional qualifications or a clinical treatment capability.
+
+## Ultra Magic Hands and Ultra Magic Session
+
+[Ultra Magic Hands](https://www.ultramagichands.com/) provides the practice and visual frame woven into this artwork. **Ultra Magic Session** remains the name used here for the session offering. The [supplied image](references/ultra-magic-hands-artwork.jpg), captioned “Higher Dimensional Energy Transfer,” connects the sessions to the artwork’s cosmic and spiritual imagery.
+
+That shared frame can accompany any expressly selected format, including a live Zoom encounter. It does not change the booked activity, quantity, duration, or consent scope. Website prices and promotional descriptions are not automatically incorporated into this package; the actual price and specification must be agreed before payment. The provider’s identity must still be stated in the booking.
 
 ## Delivery defaults
 

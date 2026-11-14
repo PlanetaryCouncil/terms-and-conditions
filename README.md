@@ -8,6 +8,8 @@ I highly value my time. My time, attention, and presence are meaningful to me. T
 
 One of my previous projects was called **“sensusal consensual sapiosexual”**. I mention that title here to emphasise intellect, curiosity, and conversation as part of this work.
 
+I also bring [Ultra Magic Hands](https://www.ultramagichands.com/) into this artwork. The site’s **“Art of Touch”** framing connects my language of presence and attention with the intellect, conversation, and conditional possibilities of this encounter.
+
 **Buyers decide. The work is quantum, shapeshifting, morphogenetic.** These are the artwork’s terms for an evolving form: its meaning and possibilities can emerge through interaction. Each buyer decides what the proposition means to them and how they wish to engage. A shared encounter takes shape only through mutual agreement.
 
 **“I could be yours for 1 night.” Couldism, wouldism, shouldism will prevail.** This is the artwork’s conditional grammar: possibility, imagined alternatives, and expectations remain material for the performance. The remote encounter carries this same quantum, shapeshifting, morphogenetic language, with me present live on Zoom. Practical details remain for later agreement; the language does not itself establish a particular activity or bodily permission.
@@ -27,9 +29,19 @@ The words “I could be yours” are conditional. They invite a possibility; the
 
 Their detailed rules remain open. The [priority schedules](REGULATIONS.md) reserve the questions for later decisions. The session formats and proposed tribunal layers remain draft material while this ceremonial machinery takes the foreground.
 
+## Ultra Magic Hands
+
+![Ultra Magic Hands — Higher Dimensional Energy Transfer, a cosmic illustration labelled Marsita the Ultra](references/ultra-magic-hands-artwork.jpg)
+
+**“Higher Dimensional Energy Transfer.”** The supplied Ultra Magic Hands image gives the encounter a cosmic visual language: luminous hands, an orbiting field, and an imagined exchange. Here, that imagery sits alongside **quantum, shapeshifting, morphogenetic** and **couldism, wouldism, shouldism** as the artwork’s spiritual and imaginative vocabulary.
+
+In this draft, **Ultra Magic Hands** is the practice and visual frame linked above; **Ultra Magic Session** names the session offering within the artwork. Its agreed forms may include massage, Reiki, self-guided participation, or business consultancy, including my live presence on Zoom. Their practical scope remains subject to the [session specification](SERVICE.md).
+
+The [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md) accompanies the selected session format. The image and spiritual language do not establish a medical effect or supply permission to touch. The site is linked as context; its changing prices, availability, and promotional statements do not automatically become terms of this artwork’s package.
+
 ## Rules / terms and conditions
 
-*Working draft, version 0.7 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.8 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 

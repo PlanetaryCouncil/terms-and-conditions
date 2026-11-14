@@ -1,8 +1,10 @@
 # Iceland Eclipse minimal disclaimer
 
-**Working draft, version 0.7 — 14 November 2026**
+**Working draft, version 0.8 — 14 November 2026**
 
 *The artwork’s short session disclaimer, adapted from the supplied visual reference. Read alongside the [service specification](SERVICE.md) and [consent protocol](CONSENT.md).*
+
+This disclaimer accompanies the artwork’s Ultra Magic Session offering, presented in the artistic frame of [Ultra Magic Hands](https://www.ultramagichands.com/). The selected activity and its boundaries are confirmed before each session.
 
 ## Precise ambiguity
 
