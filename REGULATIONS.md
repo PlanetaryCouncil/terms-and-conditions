@@ -1,12 +1,14 @@
 # The important regulations
 
-**Working draft, version 0.6 — 14 November 2026**
+**Working draft, version 0.7 — 14 November 2026**
 
 **We will decide later.**
 
 Coin-flip regulation. Humidity measurement. Trial by combat. The Mecha-Godzilla Clause. These are the priority subjects for the next development of the artwork’s agreement. Their prominence is settled; their detailed machinery is not.
 
 **We engineer this agreement with precise ambiguity. Feature, not a bug.** The following schedules reserve the questions that matter without pretending that their answers have already been agreed.
+
+**Couldism, wouldism, shouldism will prevail.** This is the conditional language of the artwork and its unfinished machinery. It keeps possibilities available while decisions remain reserved; it does not create consent or rewrite an existing agreement.
 
 ## Schedule A — Coin-flip regulation
 

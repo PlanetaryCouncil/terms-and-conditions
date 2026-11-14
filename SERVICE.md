@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.6 — 14 November 2026**
+**Working draft, version 0.7 — 14 November 2026**
 
 ## Minimum acceptable service
 
@@ -9,6 +9,8 @@
 This is the proposed minimum deliverable for an accepted paid package under the artwork. It is distinct from the artwork’s title, “I could be yours for 1 night, the price is 1 BTC.” The package is not a promise of a continuous 24-hour encounter, an overnight stay, or exclusive access to a person.
 
 **Remote presence:** “I will be present with you, live, during the Zoom call.”
+
+**The artist’s description of the remote encounter:** “Quantum shapeshifting morphogenetic. ‘I could be yours for 1 night.’ Couldism, wouldism, shouldism will prevail.” This is the artistic register of the encounter. Live Zoom presence remains the stated delivery channel; the particular activity and practical details remain for later agreement. This description does not silently choose a session format or complete a booking specification.
 
 By explicit agreement before payment, the same **24 × one-hour session allocation** may instead be booked as live Zoom **business consultancy, Reiki, or self-guided sessions**. Any of these formats may be selected, or a mix may be agreed. The booking must identify the actual format or agreed selection procedure. An alternative format counts towards the package only when it has been agreed; it cannot silently replace a massage session.
 

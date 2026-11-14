@@ -1,6 +1,6 @@
 # Iceland Eclipse minimal disclaimer
 
-**Working draft, version 0.6 — 14 November 2026**
+**Working draft, version 0.7 — 14 November 2026**
 
 *The artwork’s short session disclaimer, adapted from the supplied visual reference. Read alongside the [service specification](SERVICE.md) and [consent protocol](CONSENT.md).*
 

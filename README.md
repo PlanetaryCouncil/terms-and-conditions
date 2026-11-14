@@ -10,6 +10,8 @@ One of my previous projects was called **“sensusal consensual sapiosexual”**
 
 **Buyers decide. The work is quantum, shapeshifting, morphogenetic.** These are the artwork’s terms for an evolving form: its meaning and possibilities can emerge through interaction. Each buyer decides what the proposition means to them and how they wish to engage. A shared encounter takes shape only through mutual agreement.
 
+**“I could be yours for 1 night.” Couldism, wouldism, shouldism will prevail.** This is the artwork’s conditional grammar: possibility, imagined alternatives, and expectations remain material for the performance. The remote encounter carries this same quantum, shapeshifting, morphogenetic language, with me present live on Zoom. Practical details remain for later agreement; the language does not itself establish a particular activity or bodily permission.
+
 **We engineer this agreement with precise ambiguity. Feature, not a bug.** The artwork’s interpretation remains open; its minimum deliverable and permission for actual interactions have defined boundaries.
 
 The words “I could be yours” are conditional. They invite a possibility; they do not establish ownership of me or an entitlement to my time, body, affection, or private life.
@@ -27,7 +29,7 @@ Their detailed rules remain open. The [priority schedules](REGULATIONS.md) reser
 
 ## Rules / terms and conditions
 
-*Working draft, version 0.6 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.7 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 

@@ -2,7 +2,7 @@
 
 **For “I could be yours for 1 night, the price is 1 BTC”**
 
-**Version 0.6 — working draft — 14 November 2026**
+**Version 0.7 — working draft — 14 November 2026**
 
 This protocol makes physical interaction predictable while allowing the performance to evolve. It applies equally to the artist and every participant. The artwork’s quantum, shapeshifting, morphogenetic character leaves interpretation open; permission for an actual interaction must have an agreed scope.
 
