@@ -12,7 +12,9 @@ The words “I could be yours” are conditional. They invite a possibility; the
 
 ## Rules / terms and conditions
 
-*Initial draft — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.2 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+
+For detailed interaction rules, read the [consent and interaction protocol](CONSENT.md), including the proposed **default consent to touch** mode and its limits.
 
 ### 1. The title is part of the work
 
@@ -37,6 +39,8 @@ Buyers decide how to respond to the proposition of 1 BTC. The title does not, by
 ### 6. Consent continues throughout
 
 Consent must be freely given, specific, and ongoing. Either person may decline an activity, pause, or end their participation at any time. Silence, a previous agreement, or payment is not consent to a new activity. Any financial consequences of cancellation must be addressed separately; they must never be used to pressure someone to continue.
+
+Default consent to touch can be established through an explicit agreement to a defined scope for a particular session. Within that scope, asking before each instance is optional; ongoing attention, check-ins, and immediate respect for withdrawal remain required. Until that agreement exists, no touch permission is active. The [detailed protocol](CONSENT.md) defines permission in each direction, permitted areas and actions, stop signals, and when a fresh agreement is required.
 
 ### 7. The title does not promise intimacy
 
