@@ -2,9 +2,11 @@
 
 **For “I could be yours for 1 night, the price is 1 BTC”**
 
-**Version 0.9 — working draft — 15 November 2026**
+**Version 0.10 — working draft — 15 November 2026**
 
 This protocol makes physical interaction predictable while allowing the performance to evolve. It applies equally to the artist and every participant. The artwork’s quantum, shapeshifting, morphogenetic character leaves interpretation open; permission for an actual interaction must have an agreed scope.
+
+The [essential control clause](ARTIST-CONTROL.md) preserves the artist’s control over their own body and participation and each participant’s control over their own. Agreement to a changing performance or changeable terms does not supply consent to an unspecified future interaction. Any expansion of a person’s permission requires their own fresh agreement.
 
 ## 1. Meaning of default consent to touch
 

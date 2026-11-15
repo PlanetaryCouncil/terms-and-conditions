@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.9 — 15 November 2026**
+**Working draft, version 0.10 — 15 November 2026**
 
 ## Minimum acceptable service
 
@@ -15,6 +15,8 @@ This is the proposed minimum deliverable for an accepted paid package under the 
 By explicit agreement before payment, the same **24 × one-hour session allocation** may instead be booked as live Zoom **business consultancy, Reiki, or self-guided sessions**. Any of these formats may be selected, or a mix may be agreed. The booking must identify the actual format or agreed selection procedure. An alternative format counts towards the package only when it has been agreed; it cannot silently replace a massage session.
 
 The booking must identify the person or legal entity providing the service under the name **Ultra Magic Session**. This draft does not assert professional qualifications or a clinical treatment capability.
+
+The [artist-control and living-terms framework](ARTIST-CONTROL.md) is part of the booking structure. The artist retains control of their own participation and creative direction. A changing artwork does not automatically change an existing paid commitment: material changes to the booking require notice and affirmative agreement, and any undelivered commitment must be addressed under the agreed arrangements and applicable rights.
 
 ## Ultra Magic Hands and Ultra Magic Session
 

@@ -4,6 +4,8 @@
 
 **“I could be yours for 1 night, the price is 1 BTC” is the title of this artwork.**
 
+**The essential term: I remain in full control of my body, my boundaries, my participation, and the creative direction of the work.** You choose to participate in a conceptual performative artwork. Its evolving form, including changeable draft terms, is part of the work. Participation is consensual: each person retains their own boundaries, and material changes to an existing purchase require a fresh agreement. Read the [artist-control and living-terms framework](ARTIST-CONTROL.md).
+
 I highly value my time. My time, attention, and presence are meaningful to me. This work invites an encounter with that value and with the expectations created by its title.
 
 One of my previous projects was called **“sensusal consensual sapiosexual”**. I mention that title here to emphasise intellect, curiosity, and conversation as part of this work.
@@ -61,10 +63,11 @@ The [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md) accompanies the 
 
 ## Rules / terms and conditions
 
-*Working draft, version 0.9 — 15 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.10 — 15 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 
+- [Artist control, participation, and living terms](ARTIST-CONTROL.md): the essential control clause, conscious participation, and the process for changing terms.
 - [The important regulations](REGULATIONS.md): coin flips, humidity, trial by combat, and the deliberately undrafted Mecha-Godzilla Clause.
 - [Independent Tribunal and layers of interpretation](TRIBUNAL.md): the self-certifying artistic tribunal, performed by me, with proposed layers to be decided later and a separate practical complaints route.
 - [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md): the short session acknowledgement.
@@ -112,13 +115,15 @@ Harassment, threats, coercion, and discriminatory abuse are incompatible with th
 
 ### 9. Agree the version before participating
 
-These rules may develop as the artwork develops. Any participation agreement must identify the version of the terms accepted by both parties. Later edits do not automatically change an existing agreement. Nothing here removes rights or responsibilities that apply under applicable law.
+**Changeability is itself part of the terms.** The artist may develop the artwork and publish revised drafts. Any participation agreement must identify the version of the terms accepted by both parties. Improvisation can develop within the agreed scope; material changes to an existing booking require notice and affirmative agreement before they apply. Later edits do not automatically change an existing agreement. The [living-terms framework](ARTIST-CONTROL.md#3-changeability-is-itself-part-of-the-terms) defines the process. Nothing here removes rights or responsibilities that apply under applicable law.
 
 ### 10. The Independent Tribunal and its independent figure
 
 Within the artwork’s internal framework, interpretive questions ultimately return to the **Independent Tribunal, which is me**. Its review chambers are also me, acting in separately named capacities. The fictional declaration states: “There is absolutely no conflict of interest. Even if there is a conflict of interest, this conflict of interest is not a conflict of interest.”
 
 This is disclosed circularity and artistic satire. I remain the artist and provider, with a direct interest in the agreement. The [tribunal document](TRIBUNAL.md) defines the layers and separates their internal artistic finality from actual service complaints and legal remedies.
+
+The artist’s self-described “craziness” is part of the artistic persona. The linked [absurdity-paradox research](https://independenttribunal.org/research/absurdity-paradox/) is context for interpretation, not a rule governing lawsuits. The [control framework](ARTIST-CONTROL.md#5-the-absurdity-paradox-and-actual-disputes) preserves a practical route for complaints and claims without threats or penalties for using it.
 
 ## Details still to be agreed
 

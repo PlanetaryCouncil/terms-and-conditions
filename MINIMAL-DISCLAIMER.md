@@ -1,6 +1,6 @@
 # Iceland Eclipse minimal disclaimer
 
-**Working draft, version 0.9 — 15 November 2026**
+**Working draft, version 0.10 — 15 November 2026**
 
 *The artwork’s short session disclaimer, adapted from the supplied visual reference. Read alongside the [service specification](SERVICE.md) and [consent protocol](CONSENT.md).*
 
@@ -20,6 +20,7 @@ Interpretation, atmosphere, and the artwork’s evolving meaning remain open. Th
 
 ## Session acknowledgement
 
+- [ ] I understand that I am choosing to participate in an evolving conceptual performative artwork. I have agreed to an identified version and session scope, including the [artist’s control and the process for changing terms](ARTIST-CONTROL.md). Material changes to my existing booking require a new agreement; I retain my own boundaries and right to stop.
 - [ ] I understand the agreed session format, activities, duration, and any relevant setting-specific risks explained before we begin.
 - [ ] For remote delivery, I understand that the artist will be present live on Zoom. I have agreed whether the session is business consultancy, Reiki, self-guided participation, or a specifically described massage-related activity; these formats are not interchangeable without my agreement.
 - [ ] I understand that wellbeing, relaxation, emotional release, or other personal effects may vary. No particular outcome is guaranteed. The agreed service still has to be delivered.

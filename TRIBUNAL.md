@@ -1,6 +1,6 @@
 # Independent Tribunal and the layers of interpretation
 
-**Working draft, version 0.9 — 15 November 2026**
+**Working draft, version 0.10 — 15 November 2026**
 
 **Artistic framework and satire.** The offices below are roles performed by the artist. Their titles do not represent external institutions or independent adjudicators. The practical dispute arrangements are stated separately below.
 
@@ -37,7 +37,11 @@ The declaration is the artwork’s circular proposition. It does not establish a
 
 ## 4. Practical complaints and disputes
 
+The artist’s [control and living-terms framework](ARTIST-CONTROL.md) is the essential participation clause. It preserves creative control and each person’s bodily autonomy while distinguishing public revisions from changes to an accepted booking.
+
 A participant may raise a service complaint directly with the provider using the contact details in the booking. A complaint does not have to pass through the artistic layers. Participation in the tribunal performance is optional and does not delay or condition any applicable deadline or remedy.
+
+The artist links the [absurdity-paradox research](https://independenttribunal.org/research/absurdity-paradox/) as interpretive context. Its discussion of a hypothetical insult is not an operative rule for lawsuits, an automatic defence, or a required response to a complainant. No person or family is made the target of a sexual-violence-themed condition for pursuing a complaint or claim. The artist’s self-described “craziness” is a performance persona, not an asserted legal exemption.
 
 If the parties want mediation or another independent review, they may jointly choose a person who is separate from the artist and disclose relevant interests before agreeing to that process. This draft does not impose compulsory arbitration, make the artist the final legal judge of their own dispute, or restrict access to competent courts, regulators, or applicable complaint mechanisms.
 

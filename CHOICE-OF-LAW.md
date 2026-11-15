@@ -1,6 +1,6 @@
 # Choice of law: source and draft position
 
-**Working draft, version 0.9 — 15 November 2026**
+**Working draft, version 0.10 — 15 November 2026**
 
 The supplied [HCCH text](https://www.hcch.net/en/instruments/conventions/full-text/?cid=135) concerns the 2015 Hague Principles on Choice of Law in International Commercial Contracts. It is a non-binding instrument, not a treaty granting blanket contractual freedom.
 
@@ -11,6 +11,8 @@ Article 2 recognises party choice of governing law, including choices for differ
 No governing law or court is selected yet. Naming this disclaimer “Iceland Eclipse” does not itself select Icelandic law. Referencing Article 2 does not make these Principles applicable to a particular buyer or contract.
 
 The [Independent Tribunal](TRIBUNAL.md) is an artistic framework performed by the artist, not an appointment of an external adjudicator or a binding arbitration agreement. Calling the artist independent does not remove their role as provider or establish actual impartiality.
+
+The [artist-control and living-terms framework](ARTIST-CONTROL.md) distinguishes creative freedom from changes to an existing purchase. Neither an absurdity-paradox reference nor the artist’s branded persona selects governing law, determines legal capacity, or removes access to legal remedies.
 
 Calling a Zoom session “business consultancy” does not by itself establish that both parties act in their trade or profession. That depends on their actual roles in the transaction, as explained in the Article 1 commentary. A format label does not settle whether the contract falls within the Principles’ scope.
 

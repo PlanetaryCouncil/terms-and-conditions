@@ -1,6 +1,6 @@
 # The important regulations
 
-**Working draft, version 0.9 — 15 November 2026**
+**Working draft, version 0.10 — 15 November 2026**
 
 **We will decide later.**
 
@@ -53,5 +53,7 @@ Within the artwork, questions about this machinery ultimately return to the arti
 ## Effect of an unresolved schedule
 
 “To be decided later” means no operative procedure has yet been agreed. It does not incorporate another document automatically, activate a default coin flip, or authorise the artist to impose new booking terms retrospectively. Future operative terms require an identified version and the relevant parties’ agreement.
+
+Changeability is expressly part of the [living-terms framework](ARTIST-CONTROL.md). The artist controls the creative development of the machinery and can publish proposed revisions. A participant’s actual permissions and an existing purchase change only through the relevant agreement process.
 
 These schedules concern the artwork’s ceremonial machinery. They do not supply bodily consent, change the service already purchased, or displace the practical complaints route. Existing [consent rules](CONSENT.md) and [session commitments](SERVICE.md) remain explicit while the regulatory artwork develops.
