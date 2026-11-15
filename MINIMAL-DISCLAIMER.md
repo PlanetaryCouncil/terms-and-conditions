@@ -1,6 +1,6 @@
 # Iceland Eclipse minimal disclaimer
 
-**Working draft, version 0.8 — 14 November 2026**
+**Working draft, version 0.9 — 15 November 2026**
 
 *The artwork’s short session disclaimer, adapted from the supplied visual reference. Read alongside the [service specification](SERVICE.md) and [consent protocol](CONSENT.md).*
 
@@ -13,6 +13,8 @@ This disclaimer accompanies the artwork’s Ultra Magic Session offering, presen
 Interpretation, atmosphere, and the artwork’s evolving meaning remain open. The minimum service, price agreed before payment, scope of touch, and right to stop must be understandable to everyone involved. Ambiguity does not supply a missing agreement.
 
 **Maximize the luck surface.** Chance and serendipity are part of the artistic frame; no particular personal outcome is promised by the session package.
+
+**Art of conversation. Art of vibes. Art of being natural.** These are among the artwork’s [working definitions of art](README.md#art-of-conversation-art-of-vibes-art-of-being-natural). Each interaction remains subject to freely given, specific, ongoing agreement, including the right to pause or stop.
 
 **We will decide later.** Coin-flip regulation, humidity measurement, trial by combat, and the Mecha-Godzilla Clause are the agreement’s [priority schedules](REGULATIONS.md). Their detailed procedures remain reserved.
 

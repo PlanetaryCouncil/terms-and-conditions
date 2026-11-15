@@ -1,6 +1,6 @@
 # Independent Tribunal and the layers of interpretation
 
-**Working draft, version 0.8 — 14 November 2026**
+**Working draft, version 0.9 — 15 November 2026**
 
 **Artistic framework and satire.** The offices below are roles performed by the artist. Their titles do not represent external institutions or independent adjudicators. The practical dispute arrangements are stated separately below.
 
@@ -26,7 +26,7 @@ Coin-flip regulation, humidity measurement, trial by combat, and the Mecha-Godzi
 
 The declaration is the artwork’s circular proposition. It does not establish actual impartiality. **The artist is also the provider and has a direct interest in the agreement.** That interest is disclosed, not erased by changing a title or repeating a declaration.
 
-## 3. Internal defaults
+## 3. Conflict regulation and internal defaults
 
 1. Questions of artistic interpretation ultimately return to the artist acting as the Independent Tribunal.
 2. If an office has no separately appointed officeholder, the artist performs the role. No separate person is implied.

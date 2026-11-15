@@ -29,6 +29,26 @@ The words “I could be yours” are conditional. They invite a possibility; the
 
 Their detailed rules remain open. The [priority schedules](REGULATIONS.md) reserve the questions for later decisions. The session formats and proposed tribunal layers remain draft material while this ceremonial machinery takes the foreground.
 
+**It is a very ultra contract. We have all the nuances. Some are specifically reserved for later.** Coin-flip regulation, conflict regulation, humidity and moisture measurement, trial by combat, and an entire Mecha-Godzilla form its ceremonial vocabulary. Conflicts and the artist’s multiple roles are addressed in the [tribunal framework](TRIBUNAL.md).
+
+## Art of conversation. Art of vibes. Art of being natural.
+
+This work allows multiple definitions of art:
+
+- **Art of conversation:** listening, responding, asking questions, and making room for intellect and curiosity.
+- **Art of vibes:** attending to atmosphere, pace, presence, and how an encounter feels to the people in it.
+- **Art of being natural:** leaving room for spontaneity, quiet, uncertainty, and an unforced response.
+- **Art as a score:** a title, an agreement, a set of defaults, and regulations that become part of the performance.
+- **Art as critical inquiry:** researching claims, comparing sources, and using clearly identified satire to examine authority and its language.
+
+These are working definitions for this artwork. They can coexist. A conversation, a shared atmosphere, a crafted object, and an unfinished regulatory system can each carry part of the work. **Couldism, wouldism, shouldism will prevail.**
+
+## Research, violence, and consent
+
+The difficult concern I name here is being subjected to sexual violence, including rape involving a dog. That concern connects to my separate [research and satire page about reported abuse involving dogs](https://warcrimes.planetarycouncil.org/dogs-torture/). The page brings together published testimony, reporting, and commentary about alleged torture and sexual violence; it distinguishes those accounts from judicial findings. Those accounts are a subject of critical reading, evidence assessment, and discussion.
+
+**“Everything is consensual” is the participation standard for this artwork:** every interaction must fall within what the people involved freely and specifically agree to, with continuing permission and the ability to pause, decline, or stop. That includes conversation, touch, recording, and any change in activity. Each person retains their own boundaries and can raise any concern. Vibes, naturalness, research, and the Tribunal’s declarations cannot supply another person’s agreement. The [consent protocol](CONSENT.md) sets out how that standard works in practice.
+
 ## Ultra Magic Hands
 
 ![Ultra Magic Hands — Higher Dimensional Energy Transfer, a cosmic illustration labelled Marsita the Ultra](references/ultra-magic-hands-artwork.jpg)
@@ -41,7 +61,7 @@ The [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md) accompanies the 
 
 ## Rules / terms and conditions
 
-*Working draft, version 0.8 — 14 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.9 — 15 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 

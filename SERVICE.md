@@ -1,6 +1,6 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.8 — 14 November 2026**
+**Working draft, version 0.9 — 15 November 2026**
 
 ## Minimum acceptable service
 
@@ -66,6 +66,8 @@ For massage, the recipient must affirmatively agree a separate session scope. Th
 At the start of each session, confirm the scope and present willingness again. Consent to session one does not activate touch permission for the remaining 23 sessions. A recipient’s permission to receive massage does not grant them permission to touch the provider.
 
 ## Artistic themes and the paid service
+
+The encounter may draw on the [art of conversation, vibes, and being natural](README.md#art-of-conversation-art-of-vibes-art-of-being-natural). These are shared artistic frames; the agreed activity and session commitments still determine what must be delivered.
 
 Desire, attraction, sexuality, chance, and uncertainty can be themes of the artwork. They do not add sexual activity to the service specification. No sexual activity is included in, owed for, or accepted as a substitute for the paid sessions. The package must not be advertised or used as paid access to a sexual encounter.
 

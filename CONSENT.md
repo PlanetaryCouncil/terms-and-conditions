@@ -2,7 +2,7 @@
 
 **For “I could be yours for 1 night, the price is 1 BTC”**
 
-**Version 0.8 — working draft — 14 November 2026**
+**Version 0.9 — working draft — 15 November 2026**
 
 This protocol makes physical interaction predictable while allowing the performance to evolve. It applies equally to the artist and every participant. The artwork’s quantum, shapeshifting, morphogenetic character leaves interpretation open; permission for an actual interaction must have an agreed scope.
 
@@ -13,6 +13,8 @@ This protocol makes physical interaction predictable while allowing the performa
 Default permission starts only after the person being touched has actively chosen that mode, understood its scope, and communicated agreement. It cannot be established by a sign, the title, payment, entering the venue, remaining nearby, silence, or failing to object. Agreement to participate is separate from agreement to touch.
 
 Until permission is established, the physical interaction state is **NO TOUCH**. A person may choose conversation or observation without choosing touch.
+
+**“Everything is consensual” states the standard to be maintained, not a blanket permission or certification.** Conversation, vibes, and being natural are artistic forms within that standard. A person may decline a topic, activity, or interaction without having to identify sexual violence or any other exceptional harm as the reason. Research, satire, spontaneity, and a favourable atmosphere do not replace the person’s agreement.
 
 ## 2. Permission is specific and directional
 

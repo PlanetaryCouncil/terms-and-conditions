@@ -1,10 +1,12 @@
 # The important regulations
 
-**Working draft, version 0.8 — 14 November 2026**
+**Working draft, version 0.9 — 15 November 2026**
 
 **We will decide later.**
 
 Coin-flip regulation. Humidity measurement. Trial by combat. The Mecha-Godzilla Clause. These are the priority subjects for the next development of the artwork’s agreement. Their prominence is settled; their detailed machinery is not.
+
+**A very ultra contract. We have all the nuances. Some are specifically reserved for later.** Its conflict regulation sits in the [Independent Tribunal framework](TRIBUNAL.md#3-conflict-regulation-and-internal-defaults), including the artist’s disclosed interest and multiple artistic roles. Its humidity and moisture questions sit in Schedule B. There is an entire Mecha-Godzilla Clause awaiting its own definition in Schedule D.
 
 **We engineer this agreement with precise ambiguity. Feature, not a bug.** The following schedules reserve the questions that matter without pretending that their answers have already been agreed.
 
@@ -23,6 +25,8 @@ A coin flip without a coin-flip regulation presents an obvious regulatory diffic
 **Status: to be decided later.**
 
 Reserved questions include relative or absolute humidity, units, instruments, calibration, the Humidity Measurement Officer, measurement location and timing, acceptable conditions, conflicting readings, and the relationship between the reading and the validity of a flip.
+
+“Moisture” is also part of the artwork’s vocabulary. The precise quantity to be measured, its definition, and the role of the reading remain reserved along with the rest of this schedule.
 
 No numerical threshold or measurement standard is adopted in this draft. A number will not become authoritative merely because it has appeared in a previous artwork. The humidity must await its regulation, and the regulation must account for the humidity.
 
