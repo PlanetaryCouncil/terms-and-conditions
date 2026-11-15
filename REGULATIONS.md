@@ -1,6 +1,6 @@
 # The important regulations
 
-**Working draft, version 0.10 — 15 November 2026**
+**Working draft, version 0.11 — 15 November 2026**
 
 **We will decide later.**
 

@@ -1,6 +1,6 @@
 # Independent Tribunal and the layers of interpretation
 
-**Working draft, version 0.10 — 15 November 2026**
+**Working draft, version 0.11 — 15 November 2026**
 
 **Artistic framework and satire.** The offices below are roles performed by the artist. Their titles do not represent external institutions or independent adjudicators. The practical dispute arrangements are stated separately below.
 

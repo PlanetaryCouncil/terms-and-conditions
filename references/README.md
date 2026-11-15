@@ -13,3 +13,9 @@ The user also supplied two PDFs for the [artistic tribunal’s structure](../TRI
 The artist supplied the [Planetary Council research page on reported torture and sexual violence involving dogs](https://warcrimes.planetarycouncil.org/dogs-torture/), consulted on 15 November 2026. It provides context for the [research and consent passage](../README.md#research-violence-and-consent). The page distinguishes published testimony from judicial findings and labels its fictional consent-by-proxy material as satire. Linking that research does not establish consent to any interaction within this artwork.
 
 The artist also supplied the [Independent Tribunal absurdity-paradox article](https://independenttribunal.org/research/absurdity-paradox/), consulted on 15 November 2026. It discusses an invented insult under defamation and criminal communications law. It informs the [artist-control framework’s interpretive context](../ARTIST-CONTROL.md#5-the-absurdity-paradox-and-actual-disputes); it is not incorporated as a procedure or waiver for service disputes.
+
+For professional investigation and documentation of torture allegations, see the [OHCHR Istanbul Protocol, revised edition 2022](https://www.ohchr.org/sites/default/files/documents/publications/2022-06-29/Istanbul-Protocol_Rev2_EN.pdf). It is linked as an evidence and documentation reference, not as approval of any proposed experiment or a volunteer recruitment notice.
+
+## Related personal project
+
+[DatingRelating](https://datingrelating.com/) was supplied by the artist and checked on 15 November 2026. It is linked as a separate personal project. Its membership, payment, or promotional arrangements are not incorporated into this artwork’s auction.

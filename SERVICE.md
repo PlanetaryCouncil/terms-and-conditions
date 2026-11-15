@@ -1,6 +1,12 @@
 # Minimum service and session defaults
 
-**Working draft, version 0.10 — 15 November 2026**
+**Working draft, version 0.11 — 15 November 2026**
+
+## Auction context and stated price
+
+The artist intends to offer the conceptual performative artwork at auction and states a price of **1 BTC**. Before bidding opens, the sale particulars must identify how that figure is used, such as an opening bid, reserve, or fixed-price option; no one of those mechanisms is selected by this draft. They must also identify the lot, included rights and session commitments, auction rules, payment arrangements, and accepted version of the terms.
+
+The sale concerns the specified artwork and agreed deliverables. It does not transfer control over the artist’s person or create bodily permission. The artist’s separate [DatingRelating project](https://datingrelating.com/) is linked as personal context; a relationship, date, match, or membership is not part of this lot unless separately and explicitly offered.
 
 ## Minimum acceptable service
 

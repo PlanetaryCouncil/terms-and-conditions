@@ -8,7 +8,11 @@
 
 I highly value my time. My time, attention, and presence are meaningful to me. This work invites an encounter with that value and with the expectations created by its title.
 
+I intend to offer this conceptual performative artwork **at auction**, with a stated price of **1 BTC**. The sale particulars must explain how that figure operates in the auction, what is being purchased, and which version of the terms applies before bidding opens. The artwork’s evolving form includes ongoing, specific, revocable consent.
+
 One of my previous projects was called **“sensusal consensual sapiosexual”**. I mention that title here to emphasise intellect, curiosity, and conversation as part of this work.
+
+**Related personal project:** [DatingRelating](https://datingrelating.com/), my project about dating and relating. It is separate from this artwork’s sale.
 
 I also bring [Ultra Magic Hands](https://www.ultramagichands.com/) into this artwork. The site’s **“Art of Touch”** framing connects my language of presence and attention with the intellect, conversation, and conditional possibilities of this encounter.
 
@@ -63,7 +67,7 @@ The [Iceland Eclipse minimal disclaimer](MINIMAL-DISCLAIMER.md) accompanies the 
 
 ## Rules / terms and conditions
 
-*Working draft, version 0.10 — 15 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
+*Working draft, version 0.11 — 15 November 2026. These are the starting rules for the artwork. Practical arrangements for any participation must be agreed separately before it takes place or any payment is requested.*
 
 The agreement includes:
 

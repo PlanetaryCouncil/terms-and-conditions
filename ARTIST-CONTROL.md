@@ -1,6 +1,6 @@
 # Artist control, participation, and living terms
 
-**Working draft, version 0.10 — 15 November 2026**
+**Working draft, version 0.11 — 15 November 2026**
 
 ## 1. The essential term: I remain in control of myself
 

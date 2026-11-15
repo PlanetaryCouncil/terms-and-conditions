@@ -1,6 +1,6 @@
 # Choice of law: source and draft position
 
-**Working draft, version 0.10 — 15 November 2026**
+**Working draft, version 0.11 — 15 November 2026**
 
 The supplied [HCCH text](https://www.hcch.net/en/instruments/conventions/full-text/?cid=135) concerns the 2015 Hague Principles on Choice of Law in International Commercial Contracts. It is a non-binding instrument, not a treaty granting blanket contractual freedom.
 
