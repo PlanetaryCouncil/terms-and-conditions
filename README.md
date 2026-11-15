@@ -55,6 +55,8 @@ The difficult concern I name here is being subjected to sexual violence, includi
 
 **“Everything is consensual” is the participation standard for this artwork:** every interaction must fall within what the people involved freely and specifically agree to, with continuing permission and the ability to pause, decline, or stop. That includes conversation, touch, recording, and any change in activity. Each person retains their own boundaries and can raise any concern. Vibes, naturalness, research, and the Tribunal’s declarations cannot supply another person’s agreement. The [consent protocol](CONSENT.md) sets out how that standard works in practice.
 
+Read the dedicated [animal consent, welfare, and historical research page](ANIMAL-CONSENT.md) for the distinction between personal willingness, animal welfare oversight, and informed consent, with references and the AI assistant's stated boundary. It is research commentary and supplies no additional participation permission.
+
 ## Ultra Magic Hands
 
 ![Ultra Magic Hands — Higher Dimensional Energy Transfer, a cosmic illustration labelled Marsita the Ultra](references/ultra-magic-hands-artwork.jpg)
