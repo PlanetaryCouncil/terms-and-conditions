@@ -1,10 +1,16 @@
 # Animal consent, welfare, and the limits of permission
 
-*Research and critical commentary for “I could be yours for 1 night, the price is 1 BTC”. Added 15 November 2026.*
+*Research and critical commentary for “I could be yours for 1 night, the price is 1 BTC”. Added 15 November 2026; updated 16 November 2026.*
 
 **Content note:** discussion of animal experimentation, torture, and reported sexual violence. No graphic depictions or experimental instructions.
 
 [Return to the artwork](README.md) · [Human consent and interaction protocol](CONSENT.md)
+
+## Our position: no endorsement
+
+**We do not endorse bestiality, animal cruelty, torture, or sexual violence.** This artwork approaches these subjects cautiously and tactfully, with respect for survivors and animal welfare. Discussion, citation, obscenity, and satire are not invitations to enact abuse. Earlier statements of personal willingness are documented below as context; they do not constitute an offer or permission under these terms.
+
+[Ultra Magic Hands](https://www.ultramagichands.com/) is the artist's related practice. Its framing of wellness, presence, respect, and human consent does not imply animal consent or endorse sexual contact with animals. Massage requires its own agreed scope; payment never purchases consent.
 
 ## The question posed by the artwork
 
@@ -58,7 +64,21 @@ Sources: [National Academies historical account](https://www.ncbi.nlm.nih.gov/si
 
 These examples are selected historical context, not a comprehensive history of animal experimentation.
 
-## Reported abuse involving dogs and Palestinian detainees
+## Institutional language in current reporting
+
+[The Guardian article supplied by the artist, 15 September 2026](https://www.theguardian.com/us-news/2026/sep/15/kash-patel-fbi-hiring-policy-bestiality), concerns disputed FBI hiring rules and victim protection.
+
+This is a reference for critical discussion of institutional language. Inclusion of the link does not imply endorsement by the artist, the newspaper, or anyone quoted, and an employment policy supplies no permission for conduct within this artwork.
+
+## Sde Teiman and documented abuse involving dogs
+
+**Sde Teiman is a real detention facility, and abuse of Palestinian detainees, including the use of dogs to attack or intimidate people, is documented in human rights investigations. These subjects are not fictional inventions for this artwork.**
+
+The [UN Commission of Inquiry's September 2024 report](https://www.un.org/unispal/document/report-of-the-independent-international-commission-of-inquiry-on-the-occupied-palestinian-territory-including-east-jerusalem-and-israel-11sep24/) documents sexual and gender-based violence in detention, including at Sde Teiman, and describes dogs used to intimidate and attack prisoners at named prisons. [Human Rights Watch's August 2024 investigation](https://www.hrw.org/news/2024/08/26/israel-palestinian-healthcare-workers-tortured) includes testimony from doctors held at Sde Teiman concerning dog-bite injuries to detainees.
+
+These findings must be stated at their actual scope. Evidence of dog attacks does not by itself prove every specific allegation of sexual assault involving a dog, and accounts from different facilities must not be silently assigned to Sde Teiman. Attribution and evidence distinctions support accountability; they do not diminish survivors' experiences.
+
+### Further reporting and the artist's compilation
 
 The artist's related page, [“Attack dogs: torture and reported rape of Palestinian detainees”](https://warcrimes.planetarycouncil.org/dogs-torture/), collects published testimony, journalism, advocacy reporting, commentary, and satire. It includes allegations of sexual violence involving dogs against Palestinian detainees.
 
